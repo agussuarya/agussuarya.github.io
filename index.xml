@@ -121,16 +121,7 @@ Setup Some fun facts about Hugo:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://agussuarya.github.io/contact/</guid>
-      <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://agussuarya.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agussuarya.github.io/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
+      <description>Follow me, @agussuarya.</description>
     </item>
     
     <item>
@@ -140,24 +131,6 @@ Setup Some fun facts about Hugo:
       
       <guid>https://agussuarya.github.io/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Projetos</title>
-      <link>https://agussuarya.github.io/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agussuarya.github.io/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://agussuarya.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://agussuarya.github.io/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>
